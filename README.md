@@ -1,4 +1,4 @@
-# Artifical-Intelligence
+# AI Attendence System
 ->Encoding of all the required faces will store in one list.
 ->After the encoding of the face from live images or pictures will compare with the encodings in the list.<br><br>
 Made By - Achanta Harshita <br>
